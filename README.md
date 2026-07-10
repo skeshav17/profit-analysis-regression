@@ -44,8 +44,21 @@ This project analyzes the relationship between business spending and profit usin
 
 ## 📊 Dashboard
 
-Dashboard screenshots will be added soon.
+### Power BI Dashboard
 
+![Power BI Dashboard](PowerBI_Dashboard_Screenshot.png)
+
+---
+
+### Excel Regression Output
+
+![Excel Regression](Excel_Regression_Output.png)
+
+---
+
+### Python Regression Output
+
+![Python Regression](Python_Regression_Output.png)
 ---
 
 ## 📂 Project Files
